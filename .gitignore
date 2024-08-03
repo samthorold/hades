@@ -52,6 +52,7 @@ examples/*
 examples/boids/*
 !examples/boids/boids.py
 !examples/boids/boids_websockets_client.html
+!examples/flatmate_search.py
 !examples/readme_usage.py
 !examples/multi_agent_llm_storytelling/
 examples/multi_agent_llm_storytelling/*
